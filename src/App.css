@@ -1,0 +1,51 @@
+.App{
+  background-color: #1C1B1B;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  height: 100vh;
+}
+img{
+  width: 20%;
+  height: auto;
+  
+}
+
+input{
+ 
+  width: 100%;
+  padding-top:8%;
+  padding-bottom:8%;
+  margin-top: 10%;
+  border-radius:30%;
+
+  background-color:#1C1B1B;
+  border-color: grey;
+}
+button{
+  background-color:#42C83C;
+  width: 80%;
+  padding-top:8%;
+  padding-bottom:8%;
+
+  border-radius:30%;
+  border:none;
+  width: 80%;
+  color:white
+ 
+}
+a{
+  color:#42C83C;
+  text-decoration: none;
+}
+
+i{
+  margin-top: 100%;
+}
+p{
+  color:grey
+}
+
